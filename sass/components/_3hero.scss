@@ -1,0 +1,15 @@
+.hero {
+  text-align: center;
+  background-color: $background;
+  &__btn {
+    font-size: 16px;
+    font-weight: 600;
+    background-color: $accent-color;
+    color: $third-text-color;
+  }
+}
+.h1 {
+  color: $third-text-color;
+  font-weight: 700;
+  font-size: 44px;
+}

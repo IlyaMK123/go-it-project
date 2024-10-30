@@ -1,0 +1,40 @@
+.header {
+  &__nav {
+  }
+
+  &__logo {
+    font-weight: 700;
+    font-size: 26px;
+  }
+
+  &__span {
+    color: $accent-color;
+  }
+
+  &__list {
+  }
+
+  &__item {
+  }
+
+  &__link {
+    font-weight: 500;
+    &:hover,
+    &:focus {
+      color: $accent-color;
+    }
+  }
+}
+.head-contacts {
+  &__item {
+  }
+
+  &__link {
+    color: $secondary-text-color;
+    font-weight: 500;
+    &:hover,
+    &:focus {
+      color: $accent-color;
+    }
+  }
+}

@@ -1,0 +1,28 @@
+.footer {
+  background-color: $background;
+  &__logo {
+    color: $third-text-color;
+  }
+
+  &__span {
+    color: $accent-color;
+    font-weight: 600;
+    font-size: 26px;
+  }
+
+  &__address {
+    color: $third-text-color;
+  }
+
+  &__list {
+  }
+
+  &__item {
+  }
+
+  &__link {
+    color: $secondary-text-color;
+  }
+}
+.address {
+}
